@@ -1,4 +1,4 @@
-# License_Plate_Detection_System
+# License_Plate_Recognition_System
 
 ## Setup
 
