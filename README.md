@@ -69,9 +69,6 @@
 ### main.py
 - **main(image_path):** Orchestrates the overall LPR process by calling functions from other modules.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
